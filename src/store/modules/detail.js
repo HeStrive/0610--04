@@ -3,7 +3,7 @@ import { reqDetailInfo11 } from '@/api'
 export default {
   state: {
     // 商品的详情信息对象
-    detailInfo: {}
+    detailInfo1: {}
   },
   mutations: {
     // 直接修改商品详情信息对象数据
