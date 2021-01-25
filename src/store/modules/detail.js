@@ -1,5 +1,5 @@
 // 引入api接口函数
-import { reqDetailInfo } from '@/api'
+import { reqDetailInfo11 } from '@/api'
 export default {
   state: {
     // 商品的详情信息对象
